@@ -13,7 +13,7 @@ X
 ## Daily, Weekly and Monthly Budgetting
 X
 ## Monthly Reports
-X
+Graphs -Sankey Diagram
 ## Transactions ( Will try to Implement)
 X
 ## Reccuring Payments
